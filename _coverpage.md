@@ -1,4 +1,6 @@
-# 多贝云官方文档
+![logo](_media/logo.png)
+
+# 多贝云API官方文档
 
 > Duobeiyun API official documentation
 
@@ -8,3 +10,5 @@
 * [iOS SDK](zh-cn/duobeiyun-api-docs-ios-rn)
 * [Android SDK](zh-cn/duobeiyun-api-docs-android-rn)
 * [API文档下载](zh-cn/duobeiyun-api-download)
+
+[开始](#多贝云官方文档)
