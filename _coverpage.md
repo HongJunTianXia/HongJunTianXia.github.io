@@ -11,4 +11,5 @@
 * [Android SDK](zh-cn/duobeiyun-api-docs-android-rn)
 * [API文档下载](zh-cn/duobeiyun-api-download)
 
+[GitHub](https://github.com/duobeiyun)
 [开始](#多贝云官方文档)
