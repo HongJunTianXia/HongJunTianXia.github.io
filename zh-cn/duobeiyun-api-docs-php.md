@@ -5,7 +5,7 @@
 
 ## 创建多贝云SDK实例
 
-#### 引入文件
+### 引入文件
 将`com_duobeiyun_api_v3`文件夹复制到项目文件夹中
 请确保文件夹中包含下列三个文件
 ```plain
@@ -14,7 +14,7 @@ DuobeiyunApi.php        # 多贝云API
 DuobeiyunApiConfig.php  # 多贝云API配置文件
 ```
 
-#### 创建SDK实例
+### 创建SDK实例
 
 如果您的服务器时区不是`Asia/Shanghai` 请在调用SDK前添加下述代码将时区设定为东八区，避免添加课程时时间出错
 
